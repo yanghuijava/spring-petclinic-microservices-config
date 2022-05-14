@@ -1,6 +1,6 @@
 ﻿vets:
   cache:
-    ttl: 60
+    ttl: 80
     heap-size: 100
 
 ---
